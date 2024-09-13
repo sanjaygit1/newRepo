@@ -9,7 +9,7 @@ public class test2 {
 		System.out.println("welcome");
 System.out.println("bye");
 
-
+//welcome
 //thank you
 	}
 

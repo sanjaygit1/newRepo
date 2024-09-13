@@ -9,9 +9,8 @@ public class test2 {
 		System.out.println("welcome");
 System.out.println("bye");
 
-System.out.println("thank you");
-System.out.println("completed");
-//
+
+//thank you
 	}
 
 }

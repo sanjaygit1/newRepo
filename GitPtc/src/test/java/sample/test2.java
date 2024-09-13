@@ -7,6 +7,8 @@ public class test2 {
 		
 		
 		System.out.println("welcome");
+		
+		System.out.println("testcase complted");
 
 	}
 
